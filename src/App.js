@@ -45,7 +45,7 @@ function App() {
 
   return (
     <div className="App">
-      {state} // 1
+      {/* Added */}
       <NewExpense onSubmit={addNewExpensesHandler} />
       <Expenses data={newproduct} onDelete={deleteExpenses} />
     </div>
