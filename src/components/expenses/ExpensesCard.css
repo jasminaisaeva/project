@@ -1,0 +1,15 @@
+.card {
+  width: 748px;
+  height: 120px;
+  left: 346px;
+  top: 636px;
+
+  background: #f8dfff;
+  border-radius: 12px;
+  border: 1px solid;
+  margin: 0 auto;
+}
+.card-block {
+  display: flex;
+  justify-content: space-around;
+}
